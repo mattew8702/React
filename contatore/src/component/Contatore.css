@@ -1,0 +1,15 @@
+h1.contatore{
+    color: red;
+}
+
+div.contatore{
+    border: 5px solid red;
+    width: 300px;
+    height: 200px;
+    margin-left: 40%;
+    margin-bottom: 50px;
+}
+
+#decrementa{
+    margin-left: 10px;
+}
